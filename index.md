@@ -1,3 +1,5 @@
+Japanese/English
+
 # Introduction/はじめに
 Japan Technical Jamboree was held by CE Linux Forum to aim to provide free technical discussion with Japan site engineers.  That was held in October 29, 2004 at first time. That been held 80 times over the past 20 years.
 
@@ -25,6 +27,20 @@ Japan Technical Jamboreeでは、原則として日本語でディスカッシ�
 This event join many engineers over the own company.  Everyone must follow the Code of Conduct to avoid violating antitrust laws.  The Code of Conduct show in [this page](./code-of-conduct.md).
 
 たくさんのエンジニアが集まる場ですので、自分たちのためにも独占禁止法違反を疑われるような行動は避けてください。具体的に話してはいけない内容に関しては[行動規範](./code-of-conduct.md)を参照してください。
+
+# 参加方法
+## 参加者として参加される場合
+原則的に事前準備は必要ありません。当日会場に直接来てください。
+
+会場によっては事前登録が必要な場合がありますので、一度参加予定の「開催案内」を確認してみてください。リモート参加が可能な場合も「開催案内」にその旨記載がありますので、その内容に従って参加してください。
+
+参加は、会社のメンバーとしての参加でも、個人参加(ホビイスト参加)のどちらでも構いません。
+
+## 発表者として参加される場合
+「開催案内」ページに発表登録用のwikiページへのリンクがありますので、そこに自分の発表タイトル、発表者氏名の記載をお願いします。
+
+発表に関しても、会社のメンバーとしての発表、ホビイストとしてほ発表のどちらでも構いません。
+
 
 
 # 開催済み

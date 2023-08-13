@@ -1,6 +1,6 @@
-Japanese/English
+[Japanese](index.md)/English
 
-# Introduction/はじめに
+# Introduction
 Japan Technical Jamboree was held by CE Linux Forum to aim to provide free technical discussion with Japan site engineers.  That was held in October 29, 2004 at first time. That been held 80 times over the past 20 years.
 
 This event had been coordinated by Mr. Ueda and Mr. Munakata from 1st to 80th.  After that, this event take over by new coordinators.  We change name to "Japan Technical Jamboree Episode 2" to show the keeping spirit of Japan Technical Jamboree with new members.
@@ -9,7 +9,7 @@ This event had been coordinated by Mr. Ueda and Mr. Munakata from 1st to 80th.  
 * [Japan Technical Jamboree Episode 2 section 1, 2023/09/29(Fri.).](./hosted-event/1.md)
 
 
-# Objective of Japan Technical Jamboree/Japan Technical Jamboreeのねらい
+# Objective of Japan Technical Jamboree
 Embedded linux was used in consumer electronics at first. In this time, that use in automotive, industry and more. Linux is much innovative, it improve in every day.
 We think so, every engineer has many issue to use linux.  Japan Technical Jamboree provide discussion and communication space in Japan.  "I want to ask our issue to other engineer", "I want to present new idea to discuss with other engineer", it's ok for us.
 

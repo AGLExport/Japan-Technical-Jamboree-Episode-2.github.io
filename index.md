@@ -1,4 +1,4 @@
-Japanese/English
+Japanese/[English](./index_en.md)
 
 # Introduction/はじめに
 Japan Technical Jamboree was held by CE Linux Forum to aim to provide free technical discussion with Japan site engineers.  That was held in October 29, 2004 at first time. That been held 80 times over the past 20 years.

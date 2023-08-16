@@ -5,7 +5,7 @@ Japan Technical Jamboree was held by CE Linux Forum to aim to provide free techn
 
 This event had been coordinated by Mr. Ueda and Mr. Munakata from 1st to 80th.  After that, this event take over by new coordinators.  We change name to "Japan Technical Jamboree Episode 2" to show the keeping spirit of Japan Technical Jamboree with new members.
 
-# 開催案内
+# Event information
 * [Japan Technical Jamboree Episode 2 section 1, 2023/09/29(Fri.).](./hosted-event/1.md)
 
 
@@ -17,23 +17,23 @@ This event use Japanese as the native language.  If you would like to perform yo
 
 This event join many engineers over the own company.  Everyone must follow the Code of Conduct to avoid violating antitrust laws.  The Code of Conduct show in [this page](./code-of-conduct.md).
 
-# 参加方法
-## 参加者として参加される場合
-原則的に事前準備は必要ありません。当日会場に直接来てください。
+# How to join to Japan Technical Jamboree
+## Attendee
+Basically, no registration required. Please come to the event site.
 
-会場によっては事前登録が必要な場合がありますので、一度参加予定の「開催案内」を確認してみてください。リモート参加が可能な場合も「開催案内」にその旨記載がありますので、その内容に従って参加してください。
+When the event site has a restriction, you will need registrations.  Please check to the event information page.  When that event can attend by remote such as zoom, we will announce at the event information page.
 
-参加は、会社のメンバーとしての参加でも、個人参加(ホビイスト参加)のどちらでも構いません。
+No limitation for your background.
 
-## 発表者として参加される場合
-「開催案内」ページに発表登録用のwikiページへのリンクがありますので、そこに自分の発表タイトル、発表者氏名の記載をお願いします。
+## Speaker
+We are open to presenter registration at wiki page.  That wiki page link from the event information page.  When you propose to presentation, please add your presentation title and your name.
 
-発表に関しても、会社のメンバーとしての発表、ホビイストとしてほ発表のどちらでも構いません。
+No limitation for your background.
 
 
 
-# 開催済み
-## 組み込みLinux関係のイベント
+# Past events
+## Embedded Linux
 * [Embedded Open Source Summit, June 27-30, 2023, Prague, Czech.](./other-event/eoss2023.md)
 
 ## Japan Technical Jamboree Episode 1
